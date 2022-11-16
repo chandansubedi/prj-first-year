@@ -1,0 +1,26 @@
+.form{
+    background-color: rgb(218, 241, 241);
+    width: 600px;
+    min-height: 400px;
+    margin: auto;
+    }
+    .form,h1{
+    text-align: center;
+    }
+    .f-input{
+        height: 40px;
+        width: 300px;
+        border-radius: 6px;
+    } 
+    .submit{
+        height: 40px;
+        width: 300px;
+        background-color: rgb(58, 96, 211);
+        border-radius: 7px;
+    
+    }
+    .submit:hover{
+        background-color: rgb(0, 255, 68);
+        height: 35px;
+        width: 250px;
+    }
